@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "${{project-name}}",
+=======
+  "name": "{{project-name}}",
+>>>>>>> e406a9f93c4f4e70342c596af0d1ee86e4eb8689
   "private": true,
   "version": "0.0.0",
   "type": "module",
